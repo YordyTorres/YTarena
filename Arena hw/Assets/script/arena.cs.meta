@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbe0fe45bb0924e1fb8a3d76657d2fcc
+timeCreated: 1459179233
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - victim: {fileID: 162820, guid: 976f89921b21c4a2eb2395b013d3fc50, type: 2}
+  - vicBlueprint: {instanceID: 0}
+  - Cube: {fileID: 104876, guid: 5e4b809feed744c9ebf6b1e19f4a01cf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
